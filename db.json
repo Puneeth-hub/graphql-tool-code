@@ -1,0 +1,50 @@
+{
+    "users":[
+        {"id": "23", "firstName": "Puneet", "age": 20, "city": "andaman", "companyId":"1"},
+        {"id": "47", "firstName": "Rashid", "age": 58, "city": "bali", "companyId":"2"},
+        {"id": "35", "firstName": "Rahul", "age": 18, "city": "ferzol", "companyId":"2"},
+        {"id": "42", "firstName": "Emma", "age": 28, "city": "New York", "companyId":"7"},
+        {"id": "17", "firstName": "Liam", "age": 32, "city": "Los Angeles", "companyId":"2"},
+        {"id": "85", "firstName": "Sophia", "age": 25, "city": "London", "companyId":"3"},
+        {"id": "56", "firstName": "Jackson", "age": 22, "city": "Chicago", "companyId":"5"},
+        {"id": "39", "firstName": "Olivia", "age": 29, "city": "Toronto", "companyId":"14"},
+        {"id": "64", "firstName": "Noah", "age": 27, "city": "Sydney", "companyId":"9"},
+        {"id": "91", "firstName": "Ava", "age": 24, "city": "Paris", "companyId":"8"},
+        {"id": "72", "firstName": "Lucas", "age": 31, "city": "Tokyo", "companyId":"10"},
+        {"id": "28", "firstName": "Isabella", "age": 26, "city": "Rome", "companyId":"5"},
+        {"id": "53", "firstName": "Liam", "age": 23, "city": "Berlin", "companyId":"6"},
+        {"id": "77", "firstName": "Mia", "age": 30, "city": "Madrid", "companyId":"20"},
+        {"id": "49", "firstName": "Ethan", "age": 21, "city": "Seoul", "companyId":"15"},
+        {"id": "63", "firstName": "Amelia", "age": 28, "city": "Mumbai","companyId":"12"},
+        {"id": "36", "firstName": "Oliver", "age": 33, "city": "Beijing","companyId":"10"},
+        {"id": "81", "firstName": "Harper", "age": 25, "city": "Moscow","companyId":"18"},
+        {"id": "58", "firstName": "Mason", "age": 22, "city": "Sao Paulo", "companyId":"15"},
+        {"id": "19", "firstName": "Evelyn", "age": 27, "city": "Mexico City", "companyId":"13"},
+        {"id": "94", "firstName": "Elijah", "age": 24, "city": "Cairo", "companyId":"16"},
+        {"id": "67", "firstName": "Aiden", "age": 29, "city": "Bangkok", "companyId":"17"}
+    ],
+
+    "companies":[
+        {"id": "1", "name": "Apple", "description": "iPhone"},
+        {"id": "2", "name": "Samsung", "description": "Galaxy"},
+        {"id": "3", "name": "Microsoft", "description": "Surface Laptop"},
+        {"id": "4", "name": "Sony", "description": "PlayStation"},
+        {"id": "5", "name": "Tesla", "description": "Model S"},
+        {"id": "6", "name": "Google", "description": "Pixel"},
+        {"id": "7", "name": "Amazon", "description": "Kindle"},
+        {"id": "8", "name": "Nintendo", "description": "Switch"},
+        {"id": "9", "name": "Dell", "description": "XPS Laptop"},
+        {"id": "10", "name": "HP", "description": "Envy Printer"},
+        {"id": "11", "name": "Canon", "description": "EOS Camera"},
+        {"id": "12", "name": "LG", "description": "OLED TV"},
+        {"id": "13", "name": "Bose", "description": "QuietComfort Headphones"},
+        {"id": "14", "name": "Nike", "description": "Air Max Sneakers"},
+        {"id": "15", "name": "Adidas", "description": "Ultraboost Shoes"},
+        {"id": "16", "name": "Coca-Cola", "description": "Classic Soda"},
+        {"id": "17", "name": "Ford", "description": "Mustang"},
+        {"id": "18", "name": "Lego", "description": "Star Wars Set"},
+        {"id": "19", "name": "Rolex", "description": "Submariner Watch"},
+        {"id": "20", "name": "Ferrari", "description": "LaFer"}
+
+    ]
+}
